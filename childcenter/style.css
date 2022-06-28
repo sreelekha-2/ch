@@ -1,0 +1,9 @@
+.parent {
+}
+
+.child {
+  background-color: aqua;
+  width: 250px;
+  height: 250px;
+  padding: 10px 15px;
+}
